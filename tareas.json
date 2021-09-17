@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Inglés",
+        "estado": "enprogreso"
+    },
+    {
+        "titulo": "Desafio1",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Desafio2",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "BaseDatos",
+        "estado": "enprogreso"
+    },
+    {
+        "titulo": "Programación",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Competencias",
+        "estado": "terminado"
+    }
+]
